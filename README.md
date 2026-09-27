@@ -34,6 +34,7 @@ I am a first-year student at Carnegie Mellon University's Heinz College, pursuin
 **Other** &nbsp; `Excel` `Git` `Quarto` `Stata`
 
 <br>
+
 ### Selected Projects
 
 **Daily Cognitive Check-in for Adults over 50** · *Buildathon, Replit × The Gen Academy — Top 6 of 75 teams* · Sept 2026
