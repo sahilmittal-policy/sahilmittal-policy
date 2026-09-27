@@ -30,7 +30,9 @@ I am a first-year student at Carnegie Mellon University's Heinz College, pursuin
 ### Tools & Methods
 
 **Languages** &nbsp; `R (tidyverse)` `Python (pandas, GeoPandas, seaborn)` `SQL` `LaTeX`
+
 **Methods** &nbsp; `Regression` `Causal inference` `Spatial analysis` `Cost-benefit modelling` `Survey design`
+
 **Other** &nbsp; `Excel` `Git` `Quarto` `Stata`
 
 <br>
@@ -47,15 +49,9 @@ Built a Transit Dependence Index across all MBTA bus routes from ACS demographic
 
 <br>
 
-### This Semester
+### Coursework
 
-| Course | Instructor |
-|:--|:--|
-| Statistical Reasoning in R | David Choi |
-| Intermediate Economic Analysis | Felix Koenig |
-| American Policy and Politics | Lauren Banko |
-| Python Programming II | Nini Li |
-| Data Visualization with Python | Michael Simko |
+Statistical Reasoning in R, Intermediate Economic Analysis, American Policy and Politics, Data Visualization with Python
 
 <br>
 
@@ -75,13 +71,11 @@ Social Ventures and Technology Disruptions · Entrepreneurial Challenge Lab *(UC
 
 <br>
 
-### Education
+### Prior Education
 
-| | |
-|:--|:--|
-| **Carnegie Mellon University** — Heinz College | MS, Public Policy and Management – Data Analytics *(2026–28)* |
-| **Ashoka University** — Young India Fellowship | Post Graduate Diploma in Liberal Studies *(2021–22)* |
-| **NIT Tiruchirappalli** — Ranked #9 in India | BTech, Electrical and Electronics Engineering, Minor in Physics *(2017–21)* |
+**Ashoka University** — Young India Fellowship | Post Graduate Diploma in **Liberal Studies** *(2021–22)* 
+
+**NIT Tiruchirappalli** — Ranked #9 in India | **BTech**, Electrical and Electronics Engineering, Minor in Physics *(2017–21)*
 
 <br>
 
@@ -89,7 +83,7 @@ Social Ventures and Technology Disruptions · Entrepreneurial Challenge Lab *(UC
 
 ### Otherwise
 
-I love to read a lot! I also served as Chief Editor of *Zeroing In: The Science Podcast*, producing three seasons of conversations with leading Indian scientists, and I'm on the core team of Girls and Women in STEM at Plaksha University.
+I love to read a lot! I also served as Chief Editor of *Zeroing In: The Science Podcast*, producing three seasons of conversations with leading Indian scientists, and I was on the core team of Girls and Women in STEM at Plaksha University.
 
 ---
 
