@@ -58,8 +58,7 @@ Built a Transit Dependence Index across all MBTA bus routes from ACS demographic
 |:--|:--|
 | Statistical Reasoning in R | David Choi |
 | Intermediate Economic Analysis | Felix Koenig |
-| American Policy and Politics | 
-Lauren Banko |
+| American Policy and Politics | Lauren Banko |
 | Python Programming II | Nini Li |
 | Data Visualization with Python | Michael Simko |
 
