@@ -5,7 +5,7 @@
 **MS in Public Policy and Management — Data Analytics**
 Heinz College, Carnegie Mellon University
 
-Pittsburgh, PA &nbsp;·&nbsp; [sahilmit@andrew.cmu.edu](mailto:sahilmit@andrew.cmu.edu) &nbsp;·&nbsp; [Website](#) &nbsp;·&nbsp; [LinkedIn](#)
+Pittsburgh, PA &nbsp;·&nbsp; [sahilmit@andrew.cmu.edu](mailto:sahilmit@andrew.cmu.edu) &nbsp;·&nbsp; [Website](https://sahilmittal-policy.github.io/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sahil-mittal-594925146/)
 
 <br>
 
