@@ -27,19 +27,13 @@ I am a first-year student at Carnegie Mellon University's Heinz College, pursuin
 
 <br>
 
-### Achievements
+### Tools & Methods
 
-| | |
-|:--|:--|
-| **Top 6 Finalist** of 75 teams — Buildathon, Replit × The Gen Academy | Sept 2026 |
-| **Inaugural Cohort** — BRIDGE Program, Heinz College & Pitt SPIA, an eight-month program in civil discourse, dialogue facilitation and conflict management | 2026–27 |
-| **Second Place** — MIT Policy Hackathon, Transportation track | Nov 2025 |
-| **Outstanding Team Performance Award** — Plaksha University | Q2 2025 |
-| **Fast-track Promotion** — Plaksha University, for driving exemplary student outcomes | |
-| **Summer Research Fellowship** — Indian Academy of Sciences, at IIT Madras | 2019 |
+**Languages** &nbsp; `R (tidyverse)` `Python (pandas, GeoPandas, seaborn)` `SQL` `LaTeX`
+**Methods** &nbsp; `Regression` `Causal inference` `Spatial analysis` `Cost-benefit modelling` `Survey design`
+**Other** &nbsp; `Excel` `Git` `Quarto` `Stata`
 
 <br>
-
 ### Selected Projects
 
 **Daily Cognitive Check-in for Adults over 50** · *Buildathon, Replit × The Gen Academy — Top 6 of 75 teams* · Sept 2026
@@ -90,13 +84,7 @@ Social Ventures and Technology Disruptions · Entrepreneurial Challenge Lab *(UC
 
 <br>
 
-### Tools & Methods
 
-**Languages** &nbsp; `R (tidyverse)` `Python (pandas, GeoPandas, seaborn)` `SQL` `LaTeX`
-**Methods** &nbsp; `Regression` `Causal inference` `Spatial analysis` `Cost-benefit modelling` `Survey design`
-**Other** &nbsp; `Excel` `Git` `Quarto` `Stata`
-
-<br>
 
 ### Otherwise
 
